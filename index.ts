@@ -6,7 +6,6 @@ import prod from "./startup/prod";
 import logger from "./startup/logging";
 import { router } from "./startup/routes";
 
-
 const app = e();
 
 // 启动
